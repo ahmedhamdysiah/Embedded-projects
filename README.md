@@ -1,4 +1,4 @@
-# Embedded-projects-
+# Embedded-projects
 - 👋 Hi, I’m @ahmedhamdysiah
 - 👀 I’m interested in Communication and Electronics Engineering.
 - 🌱 I’m currently learning C# programming language.
