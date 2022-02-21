@@ -23,10 +23,6 @@ int main(void)
 	_delay_ms(3000);
 	Uart_Init(9600);
 	sei();
-	
-	//LCD_DispInt(19989);
-	u8 x=0;
-	
     while (1) 
     {
 			_delay_ms(500);
