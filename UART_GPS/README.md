@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning C# programming language.
 - 💞️ I’m looking to collaborate on  Electronics and Embedded companies.
 - 📫 Can to reach me with Email 📧:ahmedhamdysiah@gmail.com
+- You will connect microcontroller as video. 
 
 <!---
 ahmedhamdysiah/Embedded-projects- is a ✨ special ✨ repository because its `README.md` Embedded-projects- appears on your GitHub profile.
-You will connect microcontroller as video. 
 --->
